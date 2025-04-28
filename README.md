@@ -3,7 +3,8 @@
 #설치 방법
 
 ```
-git clone 
+git clone https://github.com/pegasuskim/gitx.git
+```
 
 터미널에서 실행 권한을 부여합니다:
 
